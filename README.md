@@ -13,7 +13,7 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://bit.ly/thevapweb" target="blank"><img align="center" src="https://freepikpsd.com/media/2019/10/website-icon-png-blue-1-Transparent-Images.png" alt="imtheva" height="30" width="40" /></a>
+<a href="https://bit.ly/thevapweb" target="blank"><img align="center" src="https://icon-library.com/images/website-icon-transparent-background/website-icon-transparent-background-11.jpg" alt="imtheva" height="30" width="40" /></a>
 <a href="https://twitter.com/imtheva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imtheva" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imtheva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtheva" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/imtheva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imtheva" height="30" width="40" /></a>
