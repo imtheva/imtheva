@@ -5,17 +5,20 @@
 ## I'm an active Learner!!
 
 - 🌱 I’m currently learning everything
+- 📝 I’m currently learning **ReactJs**
 - 👯 I’m looking to collaborate with other content creators
-- 
+- 📫 How to reach me **theva1993@gmail.com** 
 
 
 ### Connect with me:
 
-[<img align="left" alt="thevapweb" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="theva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="theva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="theva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="left">
+<a href="https://twitter.com/imtheva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imtheva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imtheva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtheva" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/imtheva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imtheva" height="30" width="40" /></a>
+<a href="https://fb.com/imtheva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imtheva" height="30" width="40" /></a>
+<a href="https://instagram.com/imtheva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imtheva" height="30" width="40" /></a>
+</p>
 
 <br />
 
