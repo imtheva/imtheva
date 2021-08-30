@@ -56,7 +56,7 @@
 
 
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtheva&show_icons=true&locale=en&layout=compact" alt="imtheva" /></p>
+  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtheva&show_icons=true&locale=en&layout=compact" alt="imtheva" /></p> -->
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtheva&show_icons=true&locale=en" alt="imtheva" /></p>
 
