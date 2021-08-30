@@ -36,7 +36,6 @@
 ---
 <!--START_SECTION:activity-->
 
-<details>
 
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtheva&show_icons=true&locale=en&layout=compact" alt="imtheva" /></p>
@@ -45,7 +44,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtheva&" alt="imtheva" /></p>
 
-</details>
 
 [website]: https://bit.ly/thevapweb
 
