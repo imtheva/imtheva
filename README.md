@@ -37,9 +37,7 @@
 <!--START_SECTION:activity-->
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imtheva&count_private=true" />
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtheva&show_icons=true&locale=en&layout=compact" alt="imtheva" /></p>
 
