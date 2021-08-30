@@ -53,7 +53,6 @@
 <br/>
 
 ---
-<!--START_SECTION:activity-->
 
 
 
